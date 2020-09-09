@@ -1,9 +1,9 @@
 {
-  "name": "vtec-preset",
+  "name": "vuetify-admin-preset",
   "version": "0.2.0",
-  "description": "A Vue CLI preset using Vtec Admin",
-  "repository": "https://github.com/okami101/vtec-preset",
+  "description": "A Vue CLI preset using Vuetify Admin",
+  "repository": "https://github.com/okami101/vuetify-admin-preset",
   "author": "Adrien Beaudouin <adrien.beaudouin@outlook.com>",
   "license": "MIT",
-  "homepage": "https://vtec.okami101.io"
+  "homepage": "https://www.okami101.io/vuetify-admin"
 }
